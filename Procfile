@@ -1,1 +1,1 @@
-worker: python sub.py
+worker: python subtest.py
